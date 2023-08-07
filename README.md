@@ -8,6 +8,9 @@ ie: `$'\154\163\40\55\154'` = `ls -l`
 
 Using the script provided in this repo `convert_to_oct.sh` you can get a command to use easily. 
 
+## File
+https://github.com/AssassinUKG/Linux_octal_commands/blob/main/convert_to_oct.sh
+
 ## Usage
 
 ```
